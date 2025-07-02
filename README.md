@@ -1,10 +1,15 @@
-# تيسير بن صالح راجح | Taiseer Bin Saleh Rajeh
+<p align="center">
+<img src="https://github.com/trajeh1/trajeh1/raw/main/profile-photo.jpg" width="160" height="160" style="border-radius: 50%;" alt="Taiseer Bin Saleh Rajeh"/>
+</p>
 
-📍 وزارة الاقتصاد والتخطيط
-📧 T_rajeh@yahoo.com
-📱 +966558114848 (WhatsApp)
+<h1 align="center">تيسير بن صالح راجح | Taiseer Bin Saleh Rajeh</h1>
 
-📥 [تحميل بطاقة الاتصال (vCard)](https://github.com/trajeh1/trajeh1/raw/main/contact.vcf)
+<p align="center">
+📍 وزارة الاقتصاد والتخطيط<br>
+📧 T_rajeh@yahoo.com<br>
+📱 +966558114848 (واتساب)<br>
+📥 <a href="https://github.com/trajeh1/trajeh1/raw/main/contact.vcf">تحميل بطاقة الاتصال (vCard)</a>
+</p>
 
 ---
 
