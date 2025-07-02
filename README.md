@@ -1,16 +1,29 @@
-## Hi there 👋
+# تيسير بن صالح راجح | Taiseer Bin Saleh Rajeh
 
-<!--
-**trajeh1/trajeh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 وزارة الاقتصاد والتخطيط
+📧 T_rajeh@yahoo.com
+📱 +966558114848 (WhatsApp)
 
-Here are some ideas to get you started:
+📥 [تحميل بطاقة الاتصال (vCard)](https://github.com/trajeh1/trajeh1/raw/main/contact.vcf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me | نبذة عني
+
+مرحبًا!
+أنا تيسير بن صالح راجح، أعمل في وزارة الاقتصاد والتخطيط، وأسعى لتطوير حلول تقنية تدعم التحول الرقمي ورفع كفاءة الخدمات الحكومية.
+
+Hello!
+I'm Taiseer Bin Saleh Rajeh, working at the Ministry of Economy and Planning in Saudi Arabia. I’m passionate about digital transformation, tech solutions, and driving innovation in public services.
+
+---
+
+## 🔗 تواصل معي | Connect With Me
+
+- 📧 **Email**: T_rajeh@yahoo.com
+- 📱 **WhatsApp**: +966558114848
+- 🌐 **GitHub**: [github.com/trajeh1](https://github.com/trajeh1)
+
+---
+
+> "نسعى لصناعة مستقبل أفضل من خلال التقنية والتحول الرقمي."
